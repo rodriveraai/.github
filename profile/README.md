@@ -1,30 +1,57 @@
-# TitanML Takeoff
+# 👋 Hi, I’m Rod (@rodriveraai)
 
-<div align="center">
-<a href="https://titanml.co">Website</a> |
-<a href="https://docs.titanml.co">Docs</a> |
-<a href="https://www.titanml.co/resources">Blog</a> |
-<a href="https://www.linkedin.com/company/titan-ml">LinkedIn</a> |
-<a href="https://discord.gg/XRpWta4Z">Discord</a>
+I help developers turn **cutting-edge AI research** into **production-ready products** that deliver real business impact.  
+On GitHub, I share my open-source work around **agentic AI**, **developer tooling**, and the **QuackVerse ecosystem**.
 
-</div>
+---
 
-## What is TitanML?
+## 🚀 Current Focus
 
-TitanML enables companies to effortlessly and efficiently deploy open-source large language models (LLMs). Founded by Dr. James Dborin, Dr. Fergus Finn and Meryem Arik, and backed by key industry partners including AWS and Intel, TitanML is a team of dedicated deep learning engineers on a mission to supercharge the adoption of enterprise AI.
+- **[AI Product Engineer (AIPE)](https://aiproduct.engineer)** — Courses, tutorials, and learning paths for developers building with AI.
+- **[Ducktyper.ai](https://github.com/ducktyper-ai)** — Open-source ecosystem for agentic workflows:
+  - `quackcore` → shared infrastructure, integrations, protocols
+  - `ducktyper` → CLI for learning & running QuackTools
+  - `quacktools/*` → modular tools for developers (e.g. QuackMetadata, QuackTokenScope)
+- **[Jentic](https://jentic.com)** — Building the integration layer for AI agents (Standard Agent, OAK Runner, Arazzo Engine).
+- **[FSquared AI](https://f-squared.ai)** — Factory of Faceless AI Influencers.
 
+---
 
-### 🛫 [Takeoff](https://docs.titanml.co/docs/intro)
-- The fastest way to inference the lastest open-source LLMs from Meta, Mistral, Google, and more locally
-- Get a free trial license now! Grab your free license [here](https://www.titanml.co/contact).
-- Some of the benefits of using 🛫 Takeoff 🛫: 
-    - Batching support
-    - Multi-gpu inference
-    - Int4 quantization
-    - [Much more!](https://docs.titanml.co/docs/titan-takeoff/pro-features/feature-comparison)
+## 🎓 Teaching & Community
 
-## Get in touch 💬
+- Graduate-level teaching in **AI Product Engineering**  
+- Hosting **The Chris Rod Max Show** — conversations with early-stage AI founders  
+- Leading **AI meetups** in Berlin, Paris, London, and beyond  
+- Writing on our [Newsletter](https://newsletter.aiproduct.engineer) about agents, evals, and the future of AI  
 
-👾 Follow the latest from the TitanML team on [Discord](https://discord.gg/XRpWta4Z)</br>
-📧 Email us at [hello@titanml.co](mailto:hello@titanml.co)</br>
-🗣️ And you can always say Hi! [here](https://www.titanml.co/contact).
+---
+
+## 🛠️ Featured Projects
+
+- **[quackverse](https://github.com/ducktyper-ai/quackverse)** — The foundation: integrations, workflows, adapters, and teaching mode
+- **[ducktyper](https://github.com/ducktyper-ai/ducktyper)** — The unified CLI for QuackTools
+- **[standard-agent](https://github.com/jentic/standard-agent)** — Composable AI agents from Jentic
+
+---
+
+## 📺 Content & Media
+
+- 🎥 [YouTube @aipengineer](https://www.youtube.com/@aipengineer) — tutorials, case studies, and live coding  
+- 🎙 [Chris Rod Max Show](https://www.youtube.com/@chrisrodmax) — podcast with AI founders  
+- 📰 [Newsletter](https://newsletter.aiproduct.engineer) — essays and deep dives  
+
+---
+
+## 🌍 Connect
+
+- LinkedIn: [Rod Rivera](https://www.linkedin.com/in/rodriveraai/)  
+- Twitter / X: [@rodriveracom](https://x.com/rodriveraai)  
+- Instagram / TikTok: [@rodriveraai](https://www.instagram.com/rodriveraai)  
+- Discord: [Jentic Community Server](https://discord.gg/TdbWXZsUSm)  
+
+---
+
+### ✨ Motto
+> *“We teach you how to build and monetize AI automation businesses.”*
+
+---
